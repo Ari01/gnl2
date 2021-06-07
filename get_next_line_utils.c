@@ -6,11 +6,11 @@
 /*   By: dchheang <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/05 15:37:10 by dchheang          #+#    #+#             */
-/*   Updated: 2021/06/05 17:28:33 by dchheang         ###   ########.fr       */
+/*   Updated: 2021/06/07 11:19:15 by dchheang         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "gnl.h"
+#include "get_next_line.h"
 
 int		ft_strlen(char *s)
 {

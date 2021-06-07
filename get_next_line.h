@@ -6,12 +6,12 @@
 /*   By: dchheang <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/06/05 14:08:43 by dchheang          #+#    #+#             */
-/*   Updated: 2021/06/05 16:12:17 by dchheang         ###   ########.fr       */
+/*   Updated: 2021/06/07 11:18:53 by dchheang         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef GNL_H
-# define GNL_H
+#ifndef GET_NEXT_LINE_H
+# define GET_NEXT_LINE_H
 
 #include <unistd.h>
 #include <stdlib.h>
